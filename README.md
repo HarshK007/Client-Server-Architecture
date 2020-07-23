@@ -4,10 +4,10 @@ A server client connection is established using TCP connection and each request 
 
 ## Some Initial steps to run
 
-** INSTALL UBUNTU 18.04 LTS **
+**INSTALL UBUNTU 18.04 LTS**
 Go to the microsoft store and install that application. This is basically for running basic Linux Commands on windows without installing Linux to the system.
 
-** Steps **
+**Steps**
 - Open CMD to that folder (where these files are present)
   + Now Entered "BASH" and entered
 - Compile these files
